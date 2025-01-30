@@ -1,7 +1,7 @@
 
 ### Hi 👋
 I am a lover for technologies, at the full stack mode. Everything that is envolved with data, backend, frontend, patterns I'll in!
-- 🔭 I’m currently working on largest bank of South America: Itaú Unibanco.
+- 🔭 I’m currently working on one of most largest bank of South America: Bradesco.
 - 🤝 Feel free for contact me ;)
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/admvieira/)
