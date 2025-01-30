@@ -56,8 +56,8 @@ class FullStackTechEnthusiast:
 ---
 
 ## 📈 **GitHub Stats**
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WesleyVieira&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WesleyVieira&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wesleyvieira99&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wesleyvieira99&layout=compact&theme=radical)
 
 ---
 
@@ -69,8 +69,8 @@ class FullStackTechEnthusiast:
 ---
 
 ## 📬 **Let's Connect!**
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/WesleyVieira)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/techvieira)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wesleysv11@gmail.com)
 
 ---
 
