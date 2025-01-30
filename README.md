@@ -4,7 +4,7 @@ I am a lover for technologies, at the full stack mode. Everything that is envolv
 - 🔭 I’m currently working on one of most largest bank of South America: Bradesco.
 - 🤝 Feel free for contact me ;)
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/admvieira/)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/techvieira/)
   
 ![wesleyvieira99's Streak](https://github-readme-streak-stats.herokuapp.com/?user=wesleyvieira99&theme=tokyonight&hide_border=false)
 
