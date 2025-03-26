@@ -16,7 +16,7 @@ class FullStackTechEnthusiast:
 ---
 
 ## 🏆 **Who am I?**
-- 👨‍💻 **Tech Enthusiast** | Passionate about data, backend, frontend, design patterns, and cutting-edge solutions.
+- 👨‍💻 **Tech Lead at the Bradesco Bank**
 - 🔭 Currently working at **one of the largest banks in South America: Bradesco**.
 - 🌍 Contributing to open-source and community-driven projects.
 - 🎯 Exploring **AI, Machine Learning, and Blockchain** technologies.
@@ -29,8 +29,10 @@ class FullStackTechEnthusiast:
 - 🏆 **3x Itaú's PRAD Winner** (High Performance Recognition Program): 2021, 2022, and 2023
 - 🥉 **3rd Place at Itaú Data Hackathon "Batalha de Dados" 2021**
 - ✅ **Professional Scrum Product Owner II (Scrum.org)**
+- ✅ **AWS Developer Associate**
 - ✅ **AWS Solutions Architect Associate**
 - ✅ **AWS Cloud Practitioner**
+- ✅ **Azure Fundamentals | DP-900**
 - ✅ **Itaú Unibanco - Associate Certification: Data Engineering and Analytics**
 - ✅ **Itaú Unibanco - Practitioner Certification: Data Leadership**
 - ✅ **Itaú Unibanco - Practitioner Certification: Business Analytics**
