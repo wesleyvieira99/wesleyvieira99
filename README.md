@@ -17,7 +17,7 @@ class FullStackTechEnthusiast:
 
 ## 🏆 **Who am I?**
 - 👨‍💻 **Tech Lead at the Itaú Bank**
-- 🔭 Currently working at **one of the largest banks in South America: Bradesco**.
+- 🔭 Currently working at **one of the largest banks in South America: Itaú**.
 - 🌍 Contributing to open-source and community-driven projects.
 - 🎯 Exploring **AI, Machine Learning, and Blockchain** technologies.
 - 🤝 Feel free to **contact me** and let's build something awesome together!
